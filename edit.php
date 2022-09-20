@@ -87,10 +87,10 @@ if( mysqli_num_rows($query) < 1 ){
               <img src="dist/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
-                  Dean Pendo
+                  Thomas Ruppert
                   <span class="float-right text-sm text-danger"><i class="fas fa-star"></i></span>
                 </h3>
-                <p class="text-sm">Login Mabar ML bang</p>
+                <p class="text-sm">Hey! I need your help</p>
                 <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Jam Yang Lalu</p>
               </div>
             </div>
@@ -103,10 +103,10 @@ if( mysqli_num_rows($query) < 1 ){
               <img src="dist/img/user8-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
-                  dewaahm
+                  Ron Halbert
                   <span class="float-right text-sm text-muted"><i class="fas fa-star"></i></span>
                 </h3>
-                <p class="text-sm">Bagi sc skd dong bang</p>
+                <p class="text-sm">Hi! How are ya?</p>
                 <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 1 jam yang lalu</p>
               </div>
             </div>
@@ -122,7 +122,7 @@ if( mysqli_num_rows($query) < 1 ){
                   Nora Silvester
                   <span class="float-right text-sm text-warning"><i class="fas fa-star"></i></span>
                 </h3>
-                <p class="text-sm">1 jam 500k dalam</p>
+                <p class="text-sm">Good luck ;)</p>
                 <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 12 Jam yang lalu</p>
               </div>
             </div>
@@ -186,10 +186,10 @@ if( mysqli_num_rows($query) < 1 ){
       <!-- Sidebar user (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="img/PP.jpg" class="img-circle elevation-2" alt="User Image">
+          <img src="img/PP.png" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Galih Panji Hanindito</a>
+          <a href="#" class="d-block">Deandra Falih Andito</a>
         </div>
       </div>
 
